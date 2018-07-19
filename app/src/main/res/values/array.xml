@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drug">
+        <item>리튬</item>
+        <item>발프로산</item>
+        <item>카르바마제핀</item>
+        <item>라모트리진</item>
+        <item>올란자핀</item>
+        <item>쿠에티아핀</item>
+
+    </string-array>
+
+
+
+</resources>
